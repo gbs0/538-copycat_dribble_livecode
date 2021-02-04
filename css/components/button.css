@@ -1,0 +1,16 @@
+.product-info a {
+    padding: 15px 75px;
+    background-color: #800050;
+    text-decoration: none;
+    color: white;
+    border: 1px purple solid;
+    border-radius: 10px;
+    box-shadow: 0 10px 10px 0 rgba(0, 0, 0, 0.6);
+    transition: 0.3s ease;
+}
+
+
+.product-info a:hover {
+    background-color: #800010;
+    transition: 0.3s ease;
+}
